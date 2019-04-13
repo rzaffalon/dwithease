@@ -1,0 +1,296 @@
+{
+    "appName": {
+        "message": "Demandware With Ease"
+    },
+    "appDescription": {
+        "message": "Use Demandware Business Manager with ease!"
+    },
+    "appShortName": {
+        "message": "DWithEase"
+    },
+    "options_PageTitle": {
+        "message": "Opzioni"
+    },
+    "options_labels_hour": {
+        "message": " ore "
+    },
+    "options_labels_minute": {
+        "message": " minuta "
+    },
+    "options_labels_minutes": {
+        "message": " minuto "
+    },
+    "options_labels_seconds": {
+        "message": " sekondi "
+    },
+    "options_labels_and": {
+        "message": " e "
+    },
+    "popup_buttons_new": {
+        "message": "Nuovo"
+    },
+    "popup_buttons_add": {
+        "message": "Aggiunge la configurazione per sabbiere"
+    },
+    "sandbox_title": {
+        "message": "Tuoi sabbiere"
+    },
+    "sandbox_userName": {
+        "message": "Nome utente"
+    },
+    "sandbox_domain": {
+        "message": "Dominio"
+    },
+    "sandbox_keepSession": {
+        "message": "Mantenere viva la sessione BM"
+    },
+    "sandbox_automaticLogin": {
+        "message": "Accesso automatico"
+    },
+    "sandbox_features_automaticlogin": {
+        "message": "Accesso automatico di BM"
+    },
+    "sandbox_importsettings": {
+        "message": "Importa impostazioni"
+    },
+    "sandbox_buttons_newsandbox": {
+        "message": "Nuova sabbiera"
+    },
+    "sandbox_buttons_delete_dialog": {
+        "message": "Davvero vuole eliminare(cancellare) la sabbiera $1 ?"
+    },
+    "sandbox_buttons_delete_confirm": {
+        "message": "Si"
+    },
+    "sandbox_buttons_delete_cancel": {
+        "message": "Rifiuto"
+    },
+    "sandbox_buttons_open": {
+        "message": "Apri"
+    },
+    "sandbox_buttons_edit": {
+        "message": "Editare"
+    },
+    "sandbox_buttons_visible": {
+        "message": "Visibile"
+    },
+    "sandbox_buttons_delete": {
+        "message": "Cancellare"
+    },
+    "sandbox_buttons_save": {
+        "message": "Mantenere"
+    },
+    "sandbox_buttons_ungroup": {
+        "message": "Separa"
+    },
+    "sandbox_buttons_import": {
+        "message": "Importazione"
+    },
+    "sandbox_buttons_import_overwrite": {
+        "message": "Sovrascrivere le impostazioni precedenti"
+    },
+    "sandbox_buttons_export": {
+        "message": "Esportazione"
+    },
+    "sandbox_form_sbinfo": {
+        "message": "Informazione per sabbiere"
+    },
+    "page_context_menu_title": {
+        "message": "Context Menu"
+    },
+    "page_context_menu_description": {
+        "message": "You can configure the URLs that you want to use in your customized browser context menu as shortcuts. The context menu can be accessed by right clicking inside a saved sandbox browser tab. Rearange positions with drag and drop, or add new items to the context menu."
+    },
+    "general_title": {
+        "message": "Impostazioni"
+    },
+    "general_notifications": {
+        "message": "Aggiornamenti"
+    },
+    "show_bm_toolbar": {
+        "message": "BM Toolbar"
+    },
+    "general_colorlogs": {
+        "message": "Тronchi colorati"
+    },
+    "general_scrolllogtobottom": {
+        "message": "Scroll Log Files To Bottom"
+    },
+    "general_trimlogs": {
+        "message": "Trim Log Files"
+    },
+    "general_beautifylogs": {
+        "message": "Beautify Log Files"
+    },
+    "general_exchange_autologin": {
+        "message": "Automatically login in XChange"
+    },
+    "general_exchange_keepsessionactive": {
+        "message": "Keep XChange Session Alive"
+    },
+    "general_exchange_username": {
+        "message": "XChange Username"
+    },
+    "general_exchange_password": {
+        "message": "XChange Password"
+    },
+    "general_exchange_password_masked": {
+        "message": "The password is masked"
+    },
+    "menu_delete_item_confirmation_dialog": {
+        "message": "Do you really want to delete menu $1 ?"
+    },
+    "about_title": {
+        "message": "Per noi"
+    },
+    "about_product_description": {
+        "message": "Plugin che fa business manager, un posto fantastico! Godetevi la facilità con Demandware."
+    },
+    "about_product_version": {
+        "message": "Versionе $1 $2"
+    },
+    "about_tos": {
+        "message": "Il plugin è sotto licenza $1 e utilizza le seguenti tecnologie open-source, AngularJS Angular Material Design e Font impressionante."
+    },
+    "about_buttons_info": {
+        "message": "Ricevete aiuto"
+    },
+    "about_buttons_issues": {
+        "message": "Inviare bug"
+    },
+    "about_buttons_changelog": {
+        "message": "Ultime modifiche"
+    },
+    "about_buttons_check_timesaved": {
+        "message": "Vedi altro"
+    },
+    "about_timesaved": {
+        "message": "Questo plugin risparmiare $1 della vostra vita! $2"
+    },
+    "about_author": {
+        "message": "Creato di"
+    },
+    "about_changelog": {
+        "message": "Combia"
+    },
+    "about_saved_time_header": {
+        "message": "Tempo risparmiato"
+    },
+    "about_saved_time_total": {
+        "message": "Totale:"
+    },
+    "categories_sandboxes": {
+        "message": "Sabbiere"
+    },
+    "categories_context_menu": {
+        "message": "Context Menu"
+    },
+    "categories_settings": {
+        "message": "Opzioni"
+    },
+    "categories_about": {
+        "message": "Per noi"
+    },
+    "notifications_update_title": {
+        "message": "Ha ricevuto un nuovo aggiornamento!"
+    },
+    "notifications_update_message1": {
+        "message": "Aggiornato alla versione "
+    },
+    "notifications_update_message2": {
+        "message": "\nClicca qui se volete vedere i cambiamenti"
+    },
+    "notifications_password_title": {
+        "message": "Password errata!"
+    },
+    "notifications_password_message": {
+        "message": "Clicca qui se volete cambiare."
+    },
+    "notifications_sandbox_title": {
+        "message": "Trovo e nuova sabbia"
+    },
+    "notifications_sandbox_button_title": {
+        "message": "Stai zitto!"
+    },
+    "notifications_sandbox_message": {
+        "message": "Clicca qui se vuoi aggiungere ai tuoi sabbiere."
+    },
+    "toolbar_always_show": {
+        "message": "Always show"
+    },
+    "toolbar_auto_hide": {
+        "message": "Auto hide"
+    },
+    "toolbar_hidden": {
+        "message": "Don't show"
+    },
+    "welcome_page_header": {
+        "message": "Thank you for installing Demandware with Ease!"
+    },
+    "welcome_page_paragraph": {
+        "message": "Congratulations! You have taken the first step for improving your Salesforce Commerce Cloud B2C experience."
+    },
+    "welcome_page_suggest": {
+        "message": "While we got your attention"
+    },
+    "welcome_page_features_button": {
+        "message": "Browse all features"
+    },
+    "update_page_title": {
+        "message": "Version $1 is here!"
+    },
+    "update_page_whats_new": {
+        "message": "What's new ?"
+    },
+    "update_page_new_version_title": {
+        "message": "What's new in $1 ?"
+    },
+    "update_page_version_title": {
+        "message": "Version $1"
+    },
+    "update_page_bugs_fixed_title": {
+        "message": "Bug fixes:"
+    },
+    "update_page_planned_features_title": {
+        "message": "Next versions will feature:"
+    },
+    "update_page_about_button": {
+        "message": "Learn More"
+    },
+    "autoLogin": {
+        "message": "Automatic Login In Business Manager"
+    },
+    "autoformatJson": {
+        "message": "Formatting JSON"
+    },
+    "autoformatHTML": {
+        "message": "Formatting HTML"
+    },
+    "invalidateCache": {
+        "message": "Invalidating cache"
+    },
+    "rebuildSearchIndexes": {
+        "message": "Rebuilding Search Indexes"
+    },
+    "manageCodeVersion": {
+        "message": "Managing Code Versions"
+    },
+    "hotkeys": {
+        "message": "Hotkeys"
+    },
+    "contextMenu": {
+        "message": "Context Menu"
+    },
+    "beautify": {
+        "message": "Beautifying Logs / Directories"
+    },
+    "uploadFile": {
+        "message": "Uploading files"
+    },
+    "forms_messages_required": {
+        "message": "Obbligatorio"
+    },
+    "forms_messages_optional": {
+        "message": "Desiderio"
+    }
+}
